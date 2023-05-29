@@ -1,0 +1,2 @@
+grain_of_salt=8888
+print(grain_of_salt)
